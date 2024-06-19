@@ -24,8 +24,13 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 ### Polimorfismo 🎭
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
 
-### Conclusão
+### Conclusão 🏁
 
+Participar do curso "DIO - Trilha Java Básico - LAB Banco Digital POO" foi uma experiência extremamente enriquecedora. Durante o desafio do projeto, pude aplicar os conceitos de Orientação a Objetos em um cenário realista do domínio bancário. Desenvolver funcionalidades para contas correntes e poupança, como depósito, saque e transferência, me ajudou a entender profundamente os pilares da OOP: abstração, encapsulamento, herança e polimorfismo.
+
+Explorar a Stream API do Java também foi uma parte fascinante do curso, destacando-se como uma ferramenta poderosa para aumentar a produtividade e eficiência na manipulação de coleções de dados. Essa jornada proporcionou uma excelente base para continuar aprimorando minhas habilidades em desenvolvimento Java.
+
+Estou muito grato pela oportunidade de participar do Santander Bootcamp 2024 e pelo suporte fornecido pela DIO. Esta experiência não apenas fortaleceu meu conhecimento técnico, mas também me preparou melhor para enfrentar desafios futuros no campo do desenvolvimento de software. Estou ansioso para aplicar tudo o que aprendi em projetos futuros e continuar crescendo como desenvolvedor Java.
 
 ## Certificados
 
