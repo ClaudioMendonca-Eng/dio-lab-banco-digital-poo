@@ -37,7 +37,7 @@ Estou muito grato pela oportunidade de participar do Santander Bootcamp 2024 e p
 
 - Ganhando Produtividade com Stream API Java
 
-[![Certificado](img/01_certificado.png)](https://www.dio.me/certificate/Offfff)
+[![Certificado](docs/src/img/01_certificado.png)](https://www.dio.me/certificate/TQ0JX1MW)
 
 
 ## Licença
